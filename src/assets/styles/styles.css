@@ -1,4 +1,6 @@
 @import url('./reset.css');
+@import url('./global.css');
+
 .divider-line {
     height: 3px;
 }
@@ -27,4 +29,16 @@ input:focus {
 }
 .icon-4:hover img{
     content: url("../images/dribble-light.svg");
+}
+
+.bg-red{
+    background-color: var(--bg-red-200);
+}
+
+.bg-orange{
+    background-color: var(--bg-orange-200);
+}
+
+.bg-blue{
+    background-color: var(--bg-blue-200);
 }
