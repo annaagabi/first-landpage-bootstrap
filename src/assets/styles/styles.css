@@ -11,3 +11,20 @@ input:focus {
 .btn-download:hover img{
     content: url("../images/download-light.svg");
 }
+
+.icon:hover{
+    background-color: black;
+}
+
+.icon-1:hover img{
+    content: url("../images/facebook-light.svg");
+}
+.icon-2:hover img{
+    content: url("../images/twitter-light.svg");
+}
+.icon-3:hover img{
+    content: url("../images/linkedin-light.svg");
+}
+.icon-4:hover img{
+    content: url("../images/dribble-light.svg");
+}
